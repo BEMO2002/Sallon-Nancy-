@@ -1,0 +1,28 @@
+
+.body{
+    background-color: #f1e7d6;
+}
+
+.info .links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.info .links svg{
+    padding: 20px 20px;
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+    margin-right: 15px;
+    font-size: 25px;
+    overflow: hidden;
+}
+.info .links .fa-facebook{
+    background-color: blue;
+}
+.info .links .fa-tiktok{
+    background-color: #000;
+}
+.info .links .fa-instagram{
+    background-color: red;
+}
